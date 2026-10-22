@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secret Defense Guide (Confidential preparation notes)
+HOW_TO_DEFEND.md
+how_to_defend.md
+
+# Assessment prompt documents and temporary files
+*.docx
+~$*
+richtext_converted_to_markdown*.md
+

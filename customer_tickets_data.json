@@ -1,0 +1,127 @@
+[
+  {
+    "ticket_id": "TCK-1001",
+    "customer_name": "Alice Johnson",
+    "message": "The payment page crashes every time I click 'Checkout' on Chrome. Please fix this ASAP!"
+  },
+  {
+    "ticket_id": "TCK-1002",
+    "customer_name": "Bob Smith",
+    "message": "Hi team, it would be awesome if you could add a dark mode to the mobile app."
+  },
+  {
+    "ticket_id": "TCK-1003",
+    "customer_name": "Charlie Brown",
+    "message": "Hello, hope you are having a nice day!"
+  },
+  {
+    "ticket_id": "TCK-1004",
+    "customer_name": "Dave Miller",
+    "message": "hi"
+  },
+  {
+    "ticket_id": "TCK-1005",
+    "customer_name": "Emma Watson",
+    "message": "WIN BIG CASH PRIZE NOW! Click here to claim your reward http://spam-deal.xyz"
+  },
+  {
+    "ticket_id": "TCK-1006",
+    "customer_name": "Frank White",
+    "message": "I was charged twice on my credit card for the annual subscription invoice. Please refund the duplicate payment."
+  },
+  {
+    "ticket_id": "TCK-1007",
+    "customer_name": "Grace Lee",
+    "message": "Can you please provide an invoice for my last month payment? I need it for company tax records."
+  },
+  {
+    "ticket_id": "TCK-1008",
+    "customer_name": "Henry Green",
+    "message": "The login button is completely broken and unresponsive on Safari browser. Cannot access dashboard!"
+  },
+  {
+    "ticket_id": "TCK-1009",
+    "customer_name": "Isabella Davis",
+    "message": "Please add an option to export analytics reports to Excel and CSV format."
+  },
+  {
+    "ticket_id": "TCK-1010",
+    "customer_name": "Jack Wilson",
+    "message": "How do I change my account registered email address in user settings profile?"
+  },
+  {
+    "ticket_id": "TCK-1011",
+    "customer_name": "Kelly Adams",
+    "message": "Your new search bar feature is super fast and amazing! Love the recent user interface update."
+  },
+  {
+    "ticket_id": "TCK-1012",
+    "customer_name": "Leo Martinez",
+    "message": "The mobile app keeps freezing whenever I try to upload my profile picture."
+  },
+  {
+    "ticket_id": "TCK-1013",
+    "customer_name": "Mia Taylor",
+    "message": "Is there any student discount available for annual subscription pricing?"
+  },
+  {
+    "ticket_id": "TCK-1014",
+    "customer_name": "Noah Anderson",
+    "message": "CRITICAL EMERGENCY: Database sync failed and our entire team cannot access customer orders!"
+  },
+  {
+    "ticket_id": "TCK-1015",
+    "customer_name": "Olivia Thomas",
+    "message": "Would love integration with Slack or Discord for real-time notification alerts."
+  },
+  {
+    "ticket_id": "TCK-1016",
+    "customer_name": "Peter Parker",
+    "message": "My credit card was declined during auto-renewal. How can I update my billing information?"
+  },
+  {
+    "ticket_id": "TCK-1017",
+    "customer_name": "Quinn Harris",
+    "message": "Where can I find the official API documentation for webhook triggers?"
+  },
+  {
+    "ticket_id": "TCK-1018",
+    "customer_name": "Ruby Clark",
+    "message": "Hey there"
+  },
+  {
+    "ticket_id": "TCK-1019",
+    "customer_name": "Sam Lewis",
+    "message": "Cancel my subscription immediately! I am really angry with the constant unexpected downtime."
+  },
+  {
+    "ticket_id": "TCK-1020",
+    "customer_name": "Tina Robinson",
+    "message": "Great customer service from Sarah yesterday, thank you so much for the quick help!"
+  },
+  {
+    "ticket_id": "TCK-1021",
+    "customer_name": "Promo Bot",
+    "message": "Special promotional discount! Buy 1 get 1 free on all designer watches today only!"
+  },
+  {
+    "ticket_id": "TCK-1022",
+    "customer_name": "Victor Stone",
+    "message": "Security vulnerability detected: password reset link does not expire after single use. Please fix this immediately!"
+  },
+  {
+    "ticket_id": "TCK-1023",
+    "customer_name": "Wendy Jones",
+    "message": "Can we please have multi-language support (Spanish and French) in the web portal?"
+  },
+  {
+    "ticket_id": "TCK-1024",
+    "customer_name": "Xander Cage",
+    "message": "Good morning team!"
+  },
+  {
+    "ticket_id": "TCK-1025",
+    "customer_name": "Yasmine Scott",
+    "message": "The checkout page gave me an error code 500 when processing my order payment."
+  }
+]
